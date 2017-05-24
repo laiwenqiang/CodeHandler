@@ -10,7 +10,7 @@
 
 # 创建workflow
 
-点击Workflows，在坐下家找到``` + ```号，新建一个Blank Workflow。弹出窗口，填写信息。
+点击Workflows，在左下角找到``` + ```号，新建一个Blank Workflow。弹出窗口，填写信息。
 
 ![](http://oqgq7175e.bkt.clouddn.com/Snip20170524_11.png)
 
